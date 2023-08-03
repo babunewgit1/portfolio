@@ -23,7 +23,8 @@ const Hero = () => {
           </h4>
           <a
             className="inline-block mt-4"
-            href="./src/assets/Resume.pdf"
+			target="blank"
+            href="https://drive.google.com/file/d/1VHFyXuh9wx38zh9LAW9Yjc_RqgqhRUmg/view?usp=drive_link"
             download
           >
             <button className="btn-primary">Download Resume</button>
